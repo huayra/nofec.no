@@ -2,6 +2,9 @@
 label: Home
 hide_body: false
 fields:
+  - type: file
+    name: teaser_image
+    label: Header Teaser Image
   - type: text
     name: header_brand
     label: Header Title / Brand Name
@@ -29,8 +32,5 @@ fields:
       - type: text
         name: title
         label: Text
-  - type: file
-    name: teaser_image
-    label: Header Teaser Image
-pages:
+  pages:
   - content/_index.md
