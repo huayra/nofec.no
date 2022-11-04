@@ -1,6 +1,5 @@
 ---
-teaser_image: "images/teaser.jpg" # https://www.nofec.no/
-
+header_image: "images/teaser.jpg" # https://www.nofec.no/
 header_brand: "Systematic violations of human rights in Ecuador"
 header_tagline_paragraph: "2nd December 2022. Metropilitan University OsloMet. Oslo-Norway - Norwegian Forum for Democracy and Rights in Ecuador"
 header_button_register:
