@@ -11,11 +11,11 @@ header_button_more:
   url: "#the-future---today"
   title: "Follow us on Twitter"
 # teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
-{{< vimeo 767110988 >}}
-
-
 
 ---
+
+{{< vimeo 767110988 >}}
+
 
 # The Future - Today!
 
