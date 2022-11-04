@@ -11,10 +11,10 @@ header_button_fb:
   url: "https://www.facebook.com/people/Norwegian-Forum-for-Democracy-and-Rights-in-Ecuador/100066865013778/"
   title: "Follow us on Facebook"
 header_button_cta:
-  url: "#contact-form"
-  title: "Get in touch"
+  url: "https://www.facebook.com/people/Norwegian-Forum-for-Democracy-and-Rights-in-Ecuador/100066865013778/"
+  title: "Register"
 header_button_more:
-  url: "#the-future---today"
-  title: "Why this is awesome?"
+  url: "https://twitter.com/Nofec_"
+  title: "Follow us on Twitter"
 ---
 {{< vimeo 767110988 >}}
