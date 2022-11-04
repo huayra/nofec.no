@@ -12,5 +12,6 @@ header_button_fb:
   title: "Follow us on Facebook"
 ---
 {{< vimeo 767110988 >}}
-teaser_image: "images/share-image.png"
+
+# teaser_image: "images/share-image.png"
 
