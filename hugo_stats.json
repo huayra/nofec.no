@@ -114,9 +114,9 @@
     ],
     "ids": [
       "brand-headline",
-      "button-cta",
-      "button-more",
-      "contact-form",
+      "button-register",
+      "button-tw",
+      "button-fb",
       "content",
       "content-wrapper",
       "email",
