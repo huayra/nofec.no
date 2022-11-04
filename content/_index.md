@@ -1,13 +1,20 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "Norwegian Forum for Democracy and Rights in Ecuador"
+header_tagline_paragraph: "Systematic violations of human rights in Ecuador. 
+2nd December 2022
+Metropilitan University OsloMet
+Oslo-Norway."
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Register Now!"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+  title: "Follow us on Twitter"
+# teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+{{< vimeo 767110988 >}}
+
+
+
 ---
 
 # The Future - Today!
