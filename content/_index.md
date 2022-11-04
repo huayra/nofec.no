@@ -1,6 +1,6 @@
 ---
 header_brand: "Systematic violations of human rights in Ecuador"
-header_tagline_paragraph: "2nd December 2022. Metropilitan University OsloMet. Oslo-Norway - Norwegian Forum for Democracy and Rights in Ecuador"
+header_tagline_paragraph: "2nd of December 2022 - OsloMet, Oslo Metropolitan University, Oslo, Norway - Norwegian Forum for Democracy and Rights in Ecuador"
 header_button_register:
   url: "https://www.facebook.com/people/Norwegian-Forum-for-Democracy-and-Rights-in-Ecuador/100066865013778/"
   title: "Register Now!"
