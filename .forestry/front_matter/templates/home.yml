@@ -13,7 +13,7 @@ fields:
     label: Header Tagline Paragraph
     default: ""
   - type: field_group
-    name: header_button_cta
+    name: header_button_register
     label: Header Primary Button - Call To Action
     fields:
       - type: text
@@ -23,7 +23,10 @@ fields:
         name: title
         label: Text
   - type: field_group
-    name: header_button_more
+    name: header_button_tw
+    label: Header Secondary Button
+    type: field_group
+    name: header_button_fb
     label: Header Secondary Button
     fields:
       - type: text
