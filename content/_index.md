@@ -16,7 +16,7 @@ header_button_cta:
 header_button_more:
   url: "https://twitter.com/Nofec_"
   title: "Follow us on Twitter"
-teaser_image: "images/NOFECPanelOslo2022.JPG" # https://www.facebook.com/events/1339132410256995
+teaser_image: "images/NOFECPanelOslo2022_small.JPG" # https://www.facebook.com/events/1339132410256995
 ---
 
 {{< vimeo 767110988 >}}
