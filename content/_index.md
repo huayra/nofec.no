@@ -21,5 +21,6 @@ header_button_more:
   title: "Download Report (EN)"
 teaser_image: "images/NofecOslo2022_FlyerSmaller.jpg" # https://www.facebook.com/events/1339132410256995
 ---
-
 {{< vimeo 767110988 >}}
+
+[![Nofec Panel Conversation Dec 2nd 2022 Oslo Norway Flyer](images/NofecOslo2022_FlyerSmaller.jpg)](https://www.facebook.com/events/1339132410256995)
