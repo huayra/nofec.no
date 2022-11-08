@@ -1,4 +1,7 @@
 ---
+# Norwegian Forum for Democracy and Rights in Ecuador
+## Norwegian Forum for Democracy and Rights in Ecuador
+### Panel Conversation - Dec 2n 2022 @ Oslo Met
 header_button_cta:
   url: "https://www.facebook.com/events/1339132410256995"
   title: "Register here"
