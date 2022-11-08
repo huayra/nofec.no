@@ -19,7 +19,7 @@ header_button_more:
 header_button_more:
   url: "https://github.com/huayra/nofec.no/raw/master/static/images/Report%20on%20the%20situation%20of%20serious%20violations%20of%20the%20rule%20of%20law%20and%20of%20fundamental%20rights%20and%20freedoms%20in%20Ecuador.pdf"
   title: "Download Report (EN)"
-teaser_image: "images/NofecOslo2022_FlyerSmall.jpg" # https://www.facebook.com/events/1339132410256995
+teaser_image: "images/NofecOslo2022_FlyerSmaller.jpg" # https://www.facebook.com/events/1339132410256995
 ---
 
 {{< vimeo 767110988 >}}
