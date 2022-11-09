@@ -1,7 +1,6 @@
 ---
-# Norwegian Forum for Democracy and Rights in Ecuador
-## Norwegian Forum for Democracy and Rights in Ecuador
-### Panel Conversation - Dec 2n 2022 @ Oslo Met
+header_brand: "Join our Panel Discussion @ Oslo Met on Dec 2nd 2022"
+header_tagline_paragraph: "Norwegian Forum for Democracy and Rights in Ecuador -NOFEC- invites the civil society in Norway to participate, learn and discuss the systematic violations of human rights in Ecuador. You can start by reading our report (English and Spanish)."
 header_button_cta:
   url: "https://github.com/huayra/nofec.no/raw/master/static/images/Informe%20sobre%20la%20situaci%C3%B3n%20de%20las%20graves%20violaciones%20del%20Estado%20de%20Derecho%20y%20de%20los%20derechos%20y%20libertades%20fundamentales%20en%20Ecuador.pdf"
   title: "Descarga Informe (ES)"
