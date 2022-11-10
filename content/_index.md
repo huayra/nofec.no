@@ -12,4 +12,4 @@ header_button_more:
 [You can register on the event in Facebook](https://www.facebook.com/events/1339132410256995)
 [![Nofec Panel Conversation Dec 2nd 2022 Oslo Norway Flyer](images/NofecOslo2022_FlyerSmaller.jpg)](https://www.facebook.com/events/1339132410256995)
 ## See what this is about
-{{< vimeo 767110988 >}}
+{{< vimeo 769240344 >}}
