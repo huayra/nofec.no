@@ -8,5 +8,5 @@ header_button_more:
   url: "https://www.voto-telematico.cne.gob.ec"
   title: "Enviar Incidencias"
 ---
-## Nosotros te ayudamos en el día de elecciones!
+## CENTRO DE AYUDA CIUDADANA ESTE DOMING 20 DE AGOSTO EN VIVO!
 [![Centro de Ayuda Ciudadana Elecciones 2023](images/Centro de Ayuda Ciudadana.jpg)](https://nofec.no/)
