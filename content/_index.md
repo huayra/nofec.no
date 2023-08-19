@@ -1,6 +1,6 @@
 ---
-header_brand: "Elecciones 2023"
-header_tagline_paragraph: "Consulta Popular y Elecciones Anticipadas Presidenciales y Legislativas 2023 "
+header_brand: "Elecciones Ecuador 2023"
+header_tagline_paragraph: "Consulta Popular y Elecciones Anticipadas Presidenciales y Legislativas 2023"
 header_button_cta:
   url: "https://www.voto-telematico.cne.gob.ec"
   title: "Voto Telemático CNE"
