@@ -5,7 +5,7 @@ header_button_cta:
   url: "https://www.voto-telematico.cne.gob.ec"
   title: "Voto Telemático CNE"
 header_button_more:
-  url: "https://www.voto-telematico.cne.gob.ec"
+  url: "https://forms.gle/dsLnXp9jfzY3Hc4E7"
   title: "Enviar Incidencias"
 ---
 ## EN VIVO Y EN LINEA: CENTRO DE AYUDA CIUDADANA ESTE DOMINGO 20 DE AGOSTO!
