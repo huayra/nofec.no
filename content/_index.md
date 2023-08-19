@@ -9,5 +9,5 @@ header_button_more:
   title: "Enviar Incidencias"
 ---
 ## EN VIVO Y EN LINEA: CENTRO DE AYUDA CIUDADANA ESTE DOMINGO 20 DE AGOSTO!
-[![Centro de Ayuda Ciudadana Elecciones 2023](images/Centro%20de%20Ayuda%20Ciudadana.jpg)](https://nofec.no/)
+[![Centro de Ayuda Ciudadana Elecciones 2023](images/Centro%20de%20Ayuda%20Ciudadana.jpg.jpg)](https://nofec.no/)
 
