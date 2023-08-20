@@ -9,6 +9,6 @@ header_button_more:
   title: "Enviar Incidencias"
 ---
 
-## EN VIVO Y EN LINEA: CENTROS DE APOYO CIUDADANOP!
+## EN VIVO Y EN LINEA: CENTROS DE APOYO CIUDADANO!
 Si necesitas ayuda con el voto telemático llama a cualquiera de los numeros aquí abajo, no importa el país de tu residencia
-[![Centro de Ayuda Ciudadana Elecciones 2023](images/Centros%20de%20apoyo%20ciudadano.jpg)](https://nofec.no/)
+[![Centro de Ayuda Ciudadana Elecciones 2023](images/Centros%20de%20apoyo%20ciudadano%202023.jpg)](https://docs.google.com/spreadsheets/d/1OWxtbExSMvqW4DNL8dasrRX_E8eZ_zMH9FrAJsuLCYI/edit)
