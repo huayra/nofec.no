@@ -1,14 +1,13 @@
 ---
-header_brand: "Elecciones Ecuador 2023"
-header_tagline_paragraph: "Consulta Popular y Elecciones Anticipadas Presidenciales y Legislativas"
+header_brand: "Veeduría Internacional "Transparencia Académica""
+header_tagline_paragraph: "Informe sobre trabajos académicos de la doctora Diana Salazar"
 header_button_cta:
-  url: "https://www.voto-telematico.cne.gob.ec"
-  title: "Voto Telemático CNE"
+  url: "https://raw.githubusercontent.com/huayra/nofec.no/master/static/images/INFORME_Transp_Acade%CC%81m_(firmado).pdf"
+  title: "Descarga el Informe"
 header_button_more:
-  url: "https://forms.gle/dsLnXp9jfzY3Hc4E7"
-  title: "Enviar Incidencias"
+  url: "mailto:asesoriajuridicaCEDE@protonmail.com"
+  title: "Contáctanos"
 ---
 
-## EN VIVO Y EN LINEA: CENTROS DE APOYO CIUDADANO!
-Si necesitas ayuda con el voto telemático llama a cualquiera de los numeros aquí abajo, no importa el país de tu residencia
-[![Centro de Ayuda Ciudadana Elecciones 2023](images/Centros%20de%20apoyo%20ciudadano%202023.jpg)](https://docs.google.com/spreadsheets/d/1OWxtbExSMvqW4DNL8dasrRX_E8eZ_zMH9FrAJsuLCYI/edit)
+## Inquietudes o preguntas?
+Si tienes inqiuetudes o preguntas acerca del informe no dudes en contactarnos. Estaremos gustosos de responderte.
