@@ -10,4 +10,4 @@ header_button_more:
 ---
 
 ## Inquietudes o preguntas
-Si tienes inqiuetudes o preguntas acerca del informe no dudes en contactarnos a nuestro correo electrónico asesoriajuridicaCEDE@protonmail.com y estaremos gustosos de responderte.
+Si tienes inquietudes o preguntas acerca del informe no dudes en contactarnos a nuestro correo electrónico asesoriajuridicaCEDE@protonmail.com y te responderemos lo más pronto posible.
