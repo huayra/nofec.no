@@ -1,12 +1,12 @@
 ---
-header_brand: "Sumario de las Violaciones Reiteradas y Sistemáticas a los Derechos Humanos en Ecuador (2024)"
-header_tagline_paragraph: "El informe actualizado que presentamos aborda la crítica situación en Ecuador durante 2023. Enfocado en evidenciar las violaciones al Estado de derecho y los derechos fundamentales, este análisis detallado sirve como una denuncia ante la comunidad internacional, incluyendo gobiernos, organismos de derechos humanos y entidades relevantes."
+header_brand: "Sumario de las Violaciones Reiteradas y Sistemáticas a los Derechos Humanos en Ecuador - Summary of Repeated and Systematic Human Rights Violations in Ecuador (2024)"
+header_tagline_paragraph: "El informe actualizado que presentamos aborda la crítica situación en Ecuador durante 2023. Enfocado en evidenciar las violaciones al Estado de derecho y los derechos fundamentales, este análisis detallado sirve como una denuncia ante la comunidad internacional, incluyendo gobiernos, organismos de derechos humanos y entidades relevantes. (ES)                    -                    The updated report we present addresses the critical situation in Ecuador during 2023. Focused on highlighting violations of the rule of law and fundamental rights, this detailed analysis serves as a denunciation to the international community, including governments, human rights organizations, and relevant entities. (EN)"
 header_button_cta:
   url: "https://raw.githubusercontent.com/huayra/nofec.no/master/static/images/Sumario%20de%20las%20Violaciones%20Reiteradas%20y%20Sistem%C3%A1ticas%20a%20los%20Derechos%20Humanos%20en%20Ecuador.pdf"
-  title: "Descarga el Informe"
+  title: "Descarga el Informe (ES)"
 header_button_more:
-  url: "mailto:asesoriajuridicaCEDE@protonmail.com"
-  title: "Contáctanos"
+  url: "https://raw.githubusercontent.com/huayra/nofec.no/master/static/images/Summary%20of%20Repeated%20and%20Systematic%20Human%20Rights%20Violations%20in%20Ecuador.pdf"
+  title: "Download the Report (EN)"
 ---
 
 ## Informes
